@@ -7,15 +7,11 @@
     "cleanup": [
         "/cache",
         "/include",
-        "/lib/pkgconfig",
         "/man",
         "/share/aclocal",
         "/share/devhelp",
-        "/share/gir-1.0",
         "/share/gtk-doc",
         "/share/man",
-        "/share/pkgconfig",
-        "/share/vala",
         "/lib/systemd",
         "*.la", "*.a"
     ],
