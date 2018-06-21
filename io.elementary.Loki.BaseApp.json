@@ -6,7 +6,6 @@
     "separate-locales": false,
     "cleanup": [
         "/cache",
-        "/include",
         "/man",
         "/share/aclocal",
         "/share/devhelp",
