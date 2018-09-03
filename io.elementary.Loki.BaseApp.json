@@ -77,7 +77,7 @@
         },
         {
             "name": "elementary-icons",
-            "buildsystem": "meson",
+            "buildsystem": "cmake",
             "sources": [{
                 "type": "archive",
                 "url": "https://github.com/elementary/icons/archive/4.3.1.tar.gz",
