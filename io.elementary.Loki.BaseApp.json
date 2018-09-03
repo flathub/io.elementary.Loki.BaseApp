@@ -77,11 +77,12 @@
         },
         {
             "name": "elementary-icons",
-            "buildsystem": "cmake",
+            "buildsystem": "meson",
             "sources": [{
-                "type": "archive",
-                "url": "https://github.com/elementary/icons/archive/4.3.1.tar.gz",
-                "sha256": "2fcb35760aa3285a17ecd5ef127fe5384a20cb6e86c2b4cd9ed7942063a70a10"
+                "type": "git",
+                "url": "https://github.com/elementary/icons/",
+                "branch": "master",
+                "commit": "60e5c906d7e16b93dc6758284644e7ee780d4c8d"
             }]
         }
     ]
