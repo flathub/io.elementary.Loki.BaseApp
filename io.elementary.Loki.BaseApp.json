@@ -81,7 +81,6 @@
             "sources": [{
                 "type": "git",
                 "url": "https://github.com/elementary/icons/",
-                "branch": "master",
                 "commit": "60e5c906d7e16b93dc6758284644e7ee780d4c8d"
             }]
         }
