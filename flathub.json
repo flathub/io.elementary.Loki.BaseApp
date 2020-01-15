@@ -1,3 +1,4 @@
 {
-    "skip-appstream-check": true
+  "end-of-life": "The BaseApp reached it's end-of-life, please migrate to io.elementary.BaseApp",
+  "skip-appstream-check": true
 }
